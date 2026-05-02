@@ -1,0 +1,6 @@
+{
+  "name": "Ottawa Pulmonary Rehab",
+  "description": "A mobile-ready PWA for patients admitted to the Ottawa Pulmonary Rehabilitation program. Features schedules, packing checklists, legal disclosures, and care team info. Ready for Android compilation via Capacitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

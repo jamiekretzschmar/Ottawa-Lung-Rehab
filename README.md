@@ -1,11 +1,17 @@
-<div align="center">
+# Ottawa Pulmonary Rehab App
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A mobile-first Progressive Web Application (PWA) designed for patients admitted to the Ottawa Pulmonary Rehabilitation program at The Rehabilitation Centre.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Admission Checklist:** Interactive tool to help patients pack the necessary items for their stay.
+- **Daily Schedule:** Overview of the standard inpatient routine (vitals, physiotherapy, meals, and free time).
+- **Care Team Overview:** Glossary of common medical professionals encountered during rehab (RTs, OTs, Physiotherapists).
+- **Contact & Info:** Location information, phone numbers, and frequently asked questions for patients and their families.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Technical Details
+- **Frontend Stack:** React, TypeScript, Tailwind CSS, Vite.
+- **Animations:** Framer Motion.
+- **Icons:** Lucide React.
+- **Compilation Tooling:** Configured with CapacitorJS for seamless wrapping into native Android `.apk` via GitHub Actions or Termux.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Please refer to `README-APK.md` for details on how to generate the Android application.
